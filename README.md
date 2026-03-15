@@ -1,10 +1,10 @@
 <div align="center">
 
 <h1 style="font-family:'Orbitron', monospace; color:#00ffea; animation:scroll 8s linear infinite; white-space:nowrap;">
-😍𝐋𝐔𝐌𝐈𝐍𝐀 𝐌𝐃😍
+👄𝑲𝑯𝑨𝑫𝑰𝑱𝑨 𝑴𝑫🫦
 </h1>
 
-<img src="https://files.catbox.moe/z7047y.jpg" width="160" style="border-radius:20px; box-shadow:0 0 40px #00ffea;" />
+<img src="https://files.catbox.moe/8884xy.jpg" width="160" style="border-radius:20px; box-shadow:0 0 40px #00ffea;" />
 
 <p style="font-family:'Share Tech Mono', monospace; color:#9afff6;">
 
@@ -20,15 +20,15 @@ Use this guide if you are deploying on
 ## 🔗 Connect With Us
 
 ### Project Owner: Dev Weed
-<a href='https://wa.me/+50939032060?text=*_Hello+Dev Weed👋_*' target="_blank">
+<a href='https://wa.me/+221766297256?text=*_Hello+Dev Weed👋_*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-0033CC?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
 ### Join Our Community
-<a href="https://chat.whatsapp.com/KfYnvgj0JTqErxKc0RTNNu">
+<a href="https://whatsapp.com/channel/0029VbBx6Qr3GJOpmxcy6Y1x">
   <img src="https://img.shields.io/badge/Join_Group-00FF00?style=for-the-badge&logo=whatsapp" alt="WhatsApp Group"/>
 </a>
-<a href="https://whatsapp.com/channel/0029Vb2J9C91dAw7vxA75y2V">
+<a href="https://whatsapp.com/channel/0029VbBx6Qr3GJOpmxcy6Y1x">
   <img src="https://img.shields.io/badge/Join_Channel-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/>
 </a>
 
@@ -68,4 +68,4 @@ Use this guide if you are deploying on
 
 ### 📜 License
 
-MIT © 𝐖𝐞𝐞𝐝 𝐓𝐞𝐜𝐡 
+MIT © Shadow Tech 
