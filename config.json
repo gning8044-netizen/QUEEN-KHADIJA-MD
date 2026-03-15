@@ -1,0 +1,20 @@
+{
+  "users": {
+    "221766297256": {
+      "sudoList": [
+        "221766297256@s.whatsapp.net",
+        "221766297256@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/Khadija.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⏳️",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
