@@ -20,7 +20,7 @@ Use this guide if you are deploying on
 ## 🔗 Connect With Us
 
 ### Project Owner: Shadow Tech
-<a href='https://wa.me/+221766297256?text=*_Hello+Dev Weed👋_*' target="_blank">
+<a href='https://wa.me/+221766297256?text=*_Hello+Shadow Tech👋_*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-0033CC?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
@@ -42,7 +42,7 @@ Use this guide if you are deploying on
     
   <p align="center">
   <a href="https://www.youtube.com/@WeedTech-e1m">
-    <img title="DEPLOY LUMINA-MD" src="https://img.shields.io/badge/🚀_TUTORIAL_VEDEO_HERE-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+    <img title="DEPLOY KHADIJA-MD" src="https://img.shields.io/badge/🚀_TUTORIAL_VEDEO_HERE-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p
 
