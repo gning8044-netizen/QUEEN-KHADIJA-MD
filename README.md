@@ -4,7 +4,7 @@
 👄𝑲𝑯𝑨𝑫𝑰𝑱𝑨 𝑴𝑫🫦
 </h1>
 
-<img src="https://ibb.co/VpzT6HxD" width="160" style="border-radius:20px; box-shadow:0 0 40px #00ffea;" />
+<img src="https://www.image2url.com/r2/default/images/1776440115042-081fc565-348b-4e9c-b311-df65e157c30c.jpeg" width="160" style="border-radius:20px; box-shadow:0 0 40px #00ffea;" />
 
 <p style="font-family:'Share Tech Mono', monospace; color:#9afff6;">
 
