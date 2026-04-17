@@ -4,7 +4,7 @@
 👄𝑲𝑯𝑨𝑫𝑰𝑱𝑨 𝑴𝑫🫦
 </h1>
 
-<img src="<img src="https://www.image2url.com/r2/default/images/1776440115042-081fc565-348b-4e9c-b311-df65e157c30c.jpeg" alt="image" />" width="160" style="border-radius:20px; box-shadow:0 0 40px #00ffea;" />
+<img src="<img src="![33adf62d-5e82-4ad9-8963-7daf0b20be3d.avif](https://user8417.na.imgto.link/public/20260417/33adf62d-5e82-4ad9-8963-7daf0b20be3d.avif)" alt="image" />" width="160" style="border-radius:20px; box-shadow:0 0 40px #00ffea;" />
 
 <p style="font-family:'Share Tech Mono', monospace; color:#9afff6;">
 
